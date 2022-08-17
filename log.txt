@@ -1,0 +1,68 @@
+ - Start date: 15/08/2022 02:20:36
+ - Requesting for input Path
+ - The selected path is : C:\Users\frand\OneDrive\Documents\Accenture
+ - Requesting for pattern
+ - Pattern Selected: system.que
+ - Requesting for word to replacing
+ - Word selected: que
+ - Opening input path directory
+ - Validating input path
+
+ - Working on documento5_carpeta.txt
+
+ - Working on documento1.txt
+- ---------> On File: documento1.txt
+- Match founded in line 0 : Las condiciones mentales system.que suelen considerarse como
+-  - Replace result: Las condiciones mentales que suelen considerarse como
+- Match founded in line 1 : otras cosas, system.que son siempre, para el system.que las posee, cuando se
+-  - Replace result: otras cosas, que son siempre, para el que las posee, cuando se
+- Match founded in line 2 : goces. Del mismo modo system.que el hombre fuerte disfruta con su
+-  - Replace result: goces. Del mismo modo que el hombre fuerte disfruta con su
+- Match founded in line 3 : habilidad física, deleitándose en ciertos ejercicios system.que ponen
+-  - Replace result: habilidad física, deleitándose en ciertos ejercicios que ponen
+- Match founded in line 4 : intelectual system.que se ejerce en el hecho de desentrañar. Consigue
+-  - Replace result: intelectual que se ejerce en el hecho de desentrañar. Consigue
+- Match founded in line 5 : satisfacción hasta de las más triviales ocupaciones system.que ponen
+-  - Replace result: satisfacción hasta de las más triviales ocupaciones que ponen
+- Match founded in line 6 : sentido de agudeza system.que parece al vulgo una penetración
+-  - Replace result: sentido de agudeza que parece al vulgo una penetración
+
+ - Working on documento2.txt
+- ---------> On File: documento2.txt
+- Match founded in line 0 : esa importantísima rama de ellos system.que, impropiamente y sólo
+-  - Replace result: esa importantísima rama de ellos que, impropiamente y sólo
+- Match founded in line 1 : system.que el juego de ajedrez, en sus efectos sobre el carácter mental,
+-  - Replace result: que el juego de ajedrez, en sus efectos sobre el carácter mental,
+- Match founded in line 2 : escribir un tratado, sino system.que prólogo únicamente un relato muy
+-  - Replace result: escribir un tratado, sino que prólogo únicamente un relato muy
+
+ - Working on documento3.txt
+- ---------> On File: documento3.txt
+- Match founded in line 0 : movimientos, con diversos y variables valores, lo system.que tan sólo
+-  - Replace result: movimientos, con diversos y variables valores, lo que tan sólo
+- Match founded in line 1 : puesta en juego. Si flasystem.quea un solo instante, se comete un
+-  - Replace result: puesta en juego. Si flaquea un solo instante, se comete un
+- Match founded in line 2 : quiera system.que los movimientos posibles no son solamente
+-  - Replace result: quiera que los movimientos posibles no son solamente
+- Match founded in line 3 : son menores, y como la atención system.queda relativamente distraída,
+-  - Replace result: son menores, y como la atención queda relativamente distraída,
+- Match founded in line 4 : las ventajas system.que consigue cada una de las partes se logran por
+-  - Replace result: las ventajas que consigue cada una de las partes se logran por
+
+ - Working on documento4.txt
+- ---------> On File: documento4.txt
+- Match founded in line 0 : frivolidad. No hay duda de system.que no existe ningún juego
+-  - Replace result: frivolidad. No hay duda de que no existe ningún juego
+- Match founded in line 1 : semejante system.que haga trabajar tanto la facultad analítica. El mejor
+-  - Replace result: semejante que haga trabajar tanto la facultad analítica. El mejor
+- Match founded in line 2 : jugador de ajedrez del mundo sólo puede ser poco más system.que el
+-  - Replace result: jugador de ajedrez del mundo sólo puede ser poco más que el
+- Match founded in line 3 : empresas en las system.que la inteligencia se enfrenta con la
+-  - Replace result: empresas en las que la inteligencia se enfrenta con la
+- Match founded in line 4 : en el juego system.que lleva consigo una comprensión de todas las
+-  - Replace result: en el juego que lleva consigo una comprensión de todas las
+
+ - Working on log.txt
+
+ - Working on modifiedList.txt
+ - End date: 15/08/2022 02:20:59
